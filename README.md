@@ -4,7 +4,7 @@ Full Stack E-Commerce Responsive MERN App with Auth,
 Features
 
 User:
-Search, filter, view product details, zoom image,
+Search, filter, view product details, zoom product image,
 
 Order Management:
 Create new orders and view order history.
