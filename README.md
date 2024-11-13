@@ -15,8 +15,8 @@ Add,remove products, adjust quantities, and view subtotals.
 
 Admin:
 
-Product Management:
-Add, edit and delete products.
+Product and user Management:
+Add, edit and delete products and users.
 
 Security:
 Secure Authentication:
